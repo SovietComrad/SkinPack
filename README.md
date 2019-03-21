@@ -23,4 +23,34 @@ STEP 7: You will now have to do some basic copy and pasting in order for this to
 Go to the OTHER File Explorer opened (The one with the skin pack you downloaded from here!). You will see a file named "manifest.json"
 Click on it. (If asked what to use to open click NOTEPAD)
 
-STEP 8: You will see some code, DON'T PANIC. We're not going 
+STEP 8: You will see some code, DON'T PANIC. We're not going to be doing any high tech coding, we're just going to copy and paste some things into here.
+Go to https://uuidgenerator.net/version4, and click the "Copy" button.
+
+In the manifest.json you will see this code:
+
+{
+  "header": {
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "name": "Soviet_SkinPack",
+    "uuid": "d671782a-61cf-4566-9706-05bf102c175e"
+  },
+  "modules": [
+    {
+      "version": [
+        1,
+        0,
+        0
+      ],
+      "type": "skin_pack",
+      "uuid": "261bab37-4b43-4e58-aab4-59c580ce3b0b"
+    }
+  ],
+  "format_version": 1
+}
+
+
+STEP 9: WE WILL BE REPLACING THE "uuid" WITH NEW ONES WE COPIED FROM THE WEBSITE.
