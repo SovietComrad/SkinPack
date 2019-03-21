@@ -18,3 +18,6 @@ STEP 5: Click on AppData, this show you a new set of files: Local, LocalLow, and
 STEP 6: Pay close attention, we will be clicking through multiple files:
 
 Local >> Packages >> Microsoft.Minecraft.. >> LocalState >> games >> com.mojang
+
+STEP 7: You will now have to do some basic copy and pasting in order for this to work. (Try to stay focused here!)
+Go to the OTHER File Explorer opened. (The one with the skin pack you downloaded from here!)
