@@ -28,7 +28,8 @@ Go to https://uuidgenerator.net/version4, and click the "Copy" button.
 
 In the manifest.json you will see this code:
 
-{
+//
+"{
   "header": {
     "version": [
       1,
@@ -50,7 +51,7 @@ In the manifest.json you will see this code:
     }
   ],
   "format_version": 1
-}
-
+}"
+//
 
 STEP 9: WE WILL BE REPLACING THE "uuid" WITH NEW ONES WE COPIED FROM THE WEBSITE.
