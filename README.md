@@ -20,4 +20,7 @@ STEP 6: Pay close attention, we will be clicking through multiple files:
 Local >> Packages >> Microsoft.Minecraft.. >> LocalState >> games >> com.mojang
 
 STEP 7: You will now have to do some basic copy and pasting in order for this to work. (Try to stay focused here!)
-Go to the OTHER File Explorer opened. (The one with the skin pack you downloaded from here!)
+Go to the OTHER File Explorer opened (The one with the skin pack you downloaded from here!). You will see a file named "manifest.json"
+Click on it. (If asked what to use to open click NOTEPAD)
+
+STEP 8: You will see some code, DON'T PANIC. We're not going 
