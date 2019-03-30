@@ -2,16 +2,16 @@
 
 Hello Comrade, and thank you for looking into this Skin Pack we have provided for you to blend in and immerse youself into our Soviet society. There are some things you must know before you try to use this, as well as some rules.
 
-# There are some key things you MUST do in order for this to work.
+# Please follow the directions below in order to use this SkinPack.
 
 STEP 1: Download the above SkinPack to your computer (REMEMBER WHERE YOU SAVED IT TO)
 
 STEP 2: After it has downloaded, click on the download file and it will open in File Explorer.
 
-STEP 3: KEEP THE FILE EXPLORER OF THE DOWNLOAD OPEN. Go to the bottom left of your screen to the Windows search (the Cortana search that says "Type here to search") and type in "%APPDATA%" (without the quotation marks!) and a file should appear in the results. Click it and another File Explorer will pop up. (KEEP BOTH OPEN, YOU WILL BE DRAGGING FROM THE DOWNLOAD.)
+STEP 3: KEEP THE FILE EXPLORER OF THE DOWNLOADED SKINPACK OPEN. Go to the bottom left of your screen to the Windows search (the Cortana search that says "Type here to search") and type in "%APPDATA%" (without the quotation marks!) and a file should appear in the results. Click it and another File Explorer will pop up. (KEEP BOTH OPEN, YOU WILL BE DRAGGING FROM THE DOWNLOAD.)
 
 STEP 4: In the APPDATA FILE EXPLORER you just searched and opened, you will see files in the explorer. Above you will see this: 
-"<<Users> -user- >AppData>Roaming"
+">This PC>Windows (C:)>Users>[USERNAME]>AppData>Roaming"
 
 STEP 5: Click on AppData, this show you a new set of files: Local, LocalLow, and Roaming
 
@@ -19,39 +19,22 @@ STEP 6: Pay close attention, we will be clicking through multiple files:
 
 Local >> Packages >> Microsoft.Minecraft.. >> LocalState >> games >> com.mojang
 
-STEP 7: You will now have to do some basic copy and pasting in order for this to work. (Try to stay focused here!)
-Go to the OTHER File Explorer opened (The one with the skin pack you downloaded from here!). You will see a file named "manifest.json"
-Click on it. (If asked what to use to open click NOTEPAD)
+Step 7: After opening the "com.mojang" file, you should now see multiple files, one of which is labeled "skin_packs"
 
-STEP 8: You will see some code, DON'T PANIC. We're not going to be doing any high tech coding, we're just going to copy and paste some things into here.
-Go to https://uuidgenerator.net/version4, and click the "Copy" button.
+Have both File Explorers open in a way in which you can DRAG the downloaded skinpack on top of the "skin_packs" file in the other Explorer.
 
-In the manifest.json you will see this code:
+Step 8: CHECK THE "skin_packs" FILE TO CONFIRM THE SOVIET SKINPACK WE PROVIDED HAS BEEN TRANSFERRED.
 
-//
-"{
-  "header": {
-    "version": [
-      1,
-      0,
-      0
-    ],
-    "name": "Soviet_SkinPack",
-    "uuid": "d671782a-61cf-4566-9706-05bf102c175e"
-  },
-  "modules": [
-    {
-      "version": [
-        1,
-        0,
-        0
-      ],
-      "type": "skin_pack",
-      "uuid": "261bab37-4b43-4e58-aab4-59c580ce3b0b"
-    }
-  ],
-  "format_version": 1
-}"
-//
+FINAL STEP: After you have done all of the above, load up Minecraft.
+# NOTE: If you personally edit skins to your liking (in a way that is allowed, and doesn't break rules listed below) you MUST RESTART MINECRAFT. New changes are not registered until Minecraft restarts.
 
-STEP 9: WE WILL BE REPLACING THE "uuid" WITH NEW ONES WE COPIED FROM THE WEBSITE.
+
+# RULES:
+# Civilian use of Military skins are NOT ALLOWED, and if caught will be sent to prison, and if continued will be *permanantly* banned for failing to cooperate.
+
+# FOR CIVILIAN SKINS:
+Civilians may edit their skins to their desire by the following conditions:
+
+You may change accessories such as: skin colour, hair colour, hair length, clothing colour, or submit your own to the *Ministry of the State* government building, for review if you please. Deliberate irresponsibility with editiing (such as scribbling all over the skin) will be met with punishment, in order to keep the clothing environment as realistic as possible
+
+# FOR MILITARY USE:
