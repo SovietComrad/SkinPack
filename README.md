@@ -2,6 +2,9 @@
 
 Hello Comrade, and thank you for looking into this Skin Pack we have provided for you to blend in and immerse youself into our Soviet society. There are some things you must know before you try to use this, as well as some rules.
 
+
+
+
 # Please follow the directions below in order to use this SkinPack.
 
 STEP 1: Download the above SkinPack to your computer (REMEMBER WHERE YOU SAVED IT TO)
@@ -29,12 +32,28 @@ FINAL STEP: After you have done all of the above, load up Minecraft.
 # NOTE: If you personally edit skins to your liking (in a way that is allowed, and doesn't break rules listed below) you MUST RESTART MINECRAFT. New changes are not registered until Minecraft restarts.
 
 
+
+
+
 # RULES:
-# Civilian use of Military skins are NOT ALLOWED, and if caught will be sent to prison, and if continued will be *permanantly* banned for failing to cooperate.
+# Civilian use of military/government official skins are NOT ALLOWED, and if caught will be sent to prison, and if continued will be *permanantly* banned for failing to cooperate.
+
 
 # FOR CIVILIAN SKINS:
 Civilians may edit their skins to their desire by the following conditions:
 
 You may change accessories such as: skin colour, hair colour, hair length, clothing colour, or submit your own to the *Ministry of the State* government building, for review if you please. Deliberate irresponsibility with editiing (such as scribbling all over the skin) will be met with punishment, in order to keep the clothing environment as realistic as possible
 
-# FOR MILITARY USE:
+
+# FOR MILITARY/GOVERNMENT OFFICIAL USE:
+
+Due to the inability to provide completely unique skins in every variety, government & military personell are allowed to edit their skins ONLY BY RULES LISTED BELOW:
+
+
+You MUST consult a high rank official that you plan to edit your uniform. If they do not allow you, and you continue to edit, you will be demoted and punished accordingly.
+
+You may ONLY change: Skin colour, hair colour, hair length (this last option may be revoked if deemed necessary, due to possibility of covering too much, or too less, of uniform)
+
+
+
+That's it! Go contribute to your community, and most inmportantly, your society Comrade!
