@@ -56,7 +56,7 @@ You may ONLY change: Skin colour, hair colour, hair length (this last option may
 
 
 
-That's it! Go contribute to your community, and most inmportantly, your society Comrade!
+That's it! Go contribute to your community, and most importantly, your society Comrade!
 
 
 
