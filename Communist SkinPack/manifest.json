@@ -1,0 +1,23 @@
+{
+  "header": {
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "name": "Communist_SkinPack",
+    "uuid": "f952d119-2e4f-405d-90ef-438c4599faaf"
+  },
+  "modules": [
+    {
+      "version": [
+        1,
+        0,
+        0
+      ],
+      "type": "skin_pack",
+      "uuid": "3da38aec-c233-45c4-9722-a27c64b80a6f"
+    }
+  ],
+  "format_version": 1
+}
