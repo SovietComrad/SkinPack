@@ -1,0 +1,137 @@
+{
+  "skins": [
+    {
+      "localization_name": "Soviet Civilian",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "sovietcivilian.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soviet Civilian Female",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "sovietcivilianfemale.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soviet Commissar",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "sovietcommissar.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soviet Doctor",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "sovietdoctor.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soviet Doctor or Scientist Female",
+      "geometry": "geometry.humanoid.customslim",
+      "texture": "sovietdoctorscientistfemale.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soviet General",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "sovietgeneral.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soviet Government Worker",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "sovietgovernmentworker.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soviet Government Worker High",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "sovietgovernmentworkerhighsecondversion.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soviet Government Worker 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "sovietgovernmentworkersecondversion.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soviet KGB",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "sovietkgb.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soviet KGB Border Guard",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "sovietkgbborderguard.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soviet Naval Unit",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "sovietnaval.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soviet Naval Officer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "sovietnavalofficer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soviet Naval Officer 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "sovietnavalofficersecondversion.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soviet Officer Generic",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "sovietofficer_secondversion.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soviet Officer Ceremonial",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "sovietofficerceremonial.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soviet Parade Officer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "sovietofficerceremonialsecondaryparadeoption.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soviet Officer Generic 2 strap",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "sovietofficersecondversion2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soviet School Boy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "sovietschooluniform.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soviet School Girl",
+      "geometry": "geometry.humanoid.customslim",
+      "texture": "sovietschooluniformfemale.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soviet Scientist",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "sovietscientist.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Soviet Winter Soldier",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "sovietsoldierwinter.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Soviet",
+  "localization_name": "Soviet"
