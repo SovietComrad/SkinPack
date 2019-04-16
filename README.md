@@ -1,6 +1,6 @@
 # MUST READ BEFORE USING!!
 
-Hello Comrade, and thank you for looking into this Skin Pack we have provided for you to blend in and immerse youself into our Soviet society. There are some things you must know before you try to use this, as well as some rules.
+Hello Comrade, and thank you for looking into this Skin Pack we have provided for you to blend in and immerse youself into our communist society. There are some things you must know before you try to use this, as well as some rules.
 
 
 
@@ -26,7 +26,7 @@ Step 7: After opening the "com.mojang" file, you should now see multiple files, 
 
 Have both File Explorers open in a way in which you can DRAG the downloaded skinpack on top of the "skin_packs" file in the other Explorer.
 
-Step 8: CHECK THE "skin_packs" FILE TO CONFIRM THE SOVIET SKINPACK WE PROVIDED HAS BEEN TRANSFERRED.
+Step 8: CHECK THE "skin_packs" FILE TO CONFIRM THE COMMUNIST SKINPACK WE PROVIDED HAS BEEN TRANSFERRED.
 
 FINAL STEP: After you have done all of the above, load up Minecraft.
 # NOTE: If you personally edit skins to your liking (in a way that is allowed, and doesn't break rules listed below) you MUST RESTART MINECRAFT. New changes are not registered until Minecraft restarts.
