@@ -42,7 +42,7 @@ FINAL STEP: After you have done all of the above, load up Minecraft.
 # FOR CIVILIAN SKINS:
 Civilians may edit their skins to their desire by the following conditions:
 
-You may change accessories such as: skin colour, hair colour, hair length, clothing colour, or submit your own to the *Ministry of the State* government building, for review if you please. Deliberate irresponsibility with editiing (such as scribbling all over the skin) will be met with punishment, in order to keep the clothing environment as realistic as possible
+You may change accessories such as: skin colour, hair colour, hair length, clothing colour, or submit your own to the *Ministry of the State* government building, for review if you please. Deliberate irresponsibility with editting (such as just scribbling all over the skin) will be met with punishment, in order to keep the clothing environment as realistic as possible. If approved you will be given the online adress instruction for apropriation, if approved.
 
 
 # FOR MILITARY/GOVERNMENT OFFICIAL USE:
