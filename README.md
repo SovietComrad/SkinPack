@@ -9,30 +9,15 @@ Hello Comrade, and thank you for looking into this Skin Pack we have provided fo
 
 STEP 1: Download the above SkinPack to your computer (REMEMBER WHERE YOU SAVED IT TO)
 
-STEP 2: After it has downloaded, click on the download file and it will open in File Explorer.
+STEP 2: Open the folder where you saved the file **Do not open the file itself*
 
-STEP 3: KEEP THE FILE EXPLORER OF THE DOWNLOADED SKINPACK OPEN. Go to the bottom left of your screen to the Windows search (the Cortana search that says "Type here to search") and type in "%APPDATA%" (without the quotation marks!) and a file should appear in the results. Click it and another File Explorer will pop up. (KEEP BOTH OPEN, YOU WILL BE DRAGGING FROM THE DOWNLOAD.)
+STEP 3: In the File Explorer you have open, at the top there should be an option that says "Share" click it, and click "compress" **(If the compress button is greyed, make sure you have the skinpack folder selected)
 
-STEP 4: In the APPDATA FILE EXPLORER you just searched and opened, you will see files in the explorer. Above you will see this: 
-">This PC>Windows (C:)>Users>[USERNAME]>AppData>Roaming"
+STEP 4: Once you have compressed the skinpack folder into a ".zip" you will rename it to "SampleText.mcpack" **(If you did it correctly the icon should change to a bookshelf!)**
 
-STEP 5: Click on AppData, this show you a new set of files: Local, LocalLow, and Roaming
+STEP 5: Open Minecraft. Once you have logged in, go to the MCPACK and "open" the mcpack. You will get an alert in minecraft that *"The import has started..."* **(This may take a second or two to register, depending how slow your computer decides to be)
 
-STEP 6: Pay close attention, we will be clicking through multiple files:
-
-Local >> Packages >> Microsoft.Minecraft.. >> LocalState >> games >> com.mojang
-
-Step 7: After opening the "com.mojang" file, you should now see multiple files, one of which is labeled "skin_packs"
-
-Have both File Explorers open in a way in which you can DRAG the downloaded skinpack on top of the "skin_packs" file in the other Explorer.
-
-Step 8: CHECK THE "skin_packs" FILE TO CONFIRM THE COMMUNIST SKINPACK WE PROVIDED HAS BEEN TRANSFERRED.
-
-FINAL STEP: After you have done all of the above, load up Minecraft.
-# NOTE: If you personally edit skins to your liking (in a way that is allowed, and doesn't break rules listed below) you MUST RESTART MINECRAFT. New changes are not registered until Minecraft restarts.
-
-
-
+STEP 6: Check your skin library, when you get the message that the skinpack has been successfully imported.
 
 
 # RULES:
